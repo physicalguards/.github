@@ -37,4 +37,5 @@ For more detailed information about the project, visit the official project page
 📫 Connect with Us
 
 For questions, collaborations, or insights into the project:
-• Email: [Contact us!](mailto:yves.staudenmaier@uni-mannheim.de)
+
+- Email: [Contact us!](mailto:yves.staudenmaier@uni-mannheim.de)
